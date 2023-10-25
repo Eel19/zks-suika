@@ -6,4 +6,4 @@ Built using plain javascript and the [matter.js](https://github.com/liabru/matte
 
 -----------------------------------------
 
-Iam really thank you to [TomboFry](https://github.com/TomboFry). for matter.js
+Iam really thank you to [TomboFry](https://github.com/TomboFry).
