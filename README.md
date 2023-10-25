@@ -1,7 +1,9 @@
-# Suika / Watermelon Clone
+# Suika / Watermelon Clone with ZKS Member
 
-![](./screenshot.png)
+Hey.. its just for studying and entertainment purpose.
 
 Built using plain javascript and the [matter.js](https://github.com/liabru/matter-js) physics engine.
 
-**[Play the game](https://tombofry.github.io/suika-game/)**
+-----------------------------------------
+
+Iam really thank you to [TomboFry](https://github.com/TomboFry). for matter.js
